@@ -7,7 +7,7 @@
 ---
 [![Linkedin](https://img.shields.io/badge/-claricef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claricef-oliveira/)](https://www.linkedin.com/in/claricef-oliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clariceoliveira1470@gmail.com)](mailto:clariceoliveira1470@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/claricef?label=follow&style=social)](https://github.com/claricef/claricef)
+[![GitHub](https://img.shields.io/github/followers/claricef?label=follow&style=social)](https://github.com/claricef)
 
 
 
