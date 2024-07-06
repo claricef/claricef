@@ -4,8 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,cypress,selenium,gherkin,postgresql,postman,vscode,pycharm,git,gitlab)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claricef&show_icons=true)
-
 ---
 [![Linkedin](https://img.shields.io/badge/-claricef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claricef-oliveira/)](https://www.linkedin.com/in/claricef-oliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clariceoliveira1470@gmail.com)](mailto:clariceoliveira1470@gmail.com)
