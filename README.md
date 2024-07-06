@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🦋 Olá, meu nome é Clarice!
 
-<!--
-**claricef/claricef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Atuo como QA há cerca de três anos, trabalhando com testes manuais e automatizados. Minhas habilidades análiticas e senso critico me levaram a área de qualidade de software, onde estou sempre buscando conhecer novas técnicas e metodologias que possa impulsionar a jornada de qualidade nas equipes em que colaboro.
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,py,cypress,selenium,gherkin,postgresql,postman,vscode,pycharm,git,gitlab)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claricef&show_icons=true)
+
+---
+[![Linkedin](https://img.shields.io/badge/-claricef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claricef-oliveira/)](https://www.linkedin.com/in/claricef-oliveira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clariceoliveira1470@gmail.com)](mailto:clariceoliveira1470@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/claricef?label=follow&style=social)](https://github.com/claricef/claricef)
+
+
+
