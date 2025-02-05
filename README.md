@@ -1,6 +1,6 @@
 ## 🦋 Olá, meu nome é Clarice!
 
-💬 Atuo como QA há cerca de três anos, trabalhando com testes manuais e automatizados. Minhas habilidades análiticas e senso critico me levaram a área de qualidade de software, onde estou sempre buscando conhecer novas técnicas e metodologias que possa impulsionar a jornada de qualidade nas equipes em que colaboro.
+💬 Atuo como QA há cerca de quatro anos, trabalhando com testes manuais e automatizados. Minhas habilidades análiticas e senso critico me levaram a área de qualidade de software, onde estou sempre buscando conhecer novas técnicas e metodologias que possa impulsionar a jornada de qualidade nas equipes em que colaboro.
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,cypress,selenium,gherkin,postgresql,postman,vscode,pycharm,git,gitlab)](https://skillicons.dev)
 
